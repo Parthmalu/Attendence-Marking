@@ -41,26 +41,6 @@ Give an example
 
 `@TODO`
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ShanikaEdiriweera/student-attendance-system-backend/tags).
-
-## Authors
-
-- [Shanika Ediriweera](https://github.com/ShanikaEdiriweera) - Owner/Maintainer
-
-`@TODO` ADD Contributors and Maintainers
-
-See also the list of [contributors](https://github.com/ShanikaEdiriweera/student-attendance-system-backend/graphs/contributors) who participated in this project.
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
 ## Acknowledgments
 
 _example_
